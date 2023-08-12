@@ -2,7 +2,7 @@ import sys
 import numpy as np
 import math
 
-from EvalScript import evalResult
+# from EvalScript import evalResult
 import copy
 
 
@@ -341,19 +341,19 @@ if __name__ == '__main__':
 directory = f'{sys.argv[1]}/{sys.argv[1]}'
 
 hmm = HMM()
-hmm.get_data(f'{directory}/train')
+hmm.get_data('RU/train')
 hmm.estimate_e()
 hmm.estimate_q()
 
-hmm.predict_p1(f'{directory}/dev.in', f'{directory}/dev.p1.out')
-hmm.predict_p2(f'{directory}/dev.in', f'{directory}/dev.p2.out')
-hmm.predict_p3(f'{directory}/dev.in', f'{directory}/dev.p3.out')
+# hmm.predict_p1(f'{directory}/dev.in', f'{directory}/dev.p1.out')
+# hmm.predict_p2(f'{directory}/dev.in', f'{directory}/dev.p2.out')
+print(hmm.predict_p3('RU/dev.in', 'RU/dev.p3.out'))
 
-print('Evaluate on P1')
-print(hmm.evaluate(directory, 'dev.p1.out'))
+# print('Evaluate on P1')
+# print(hmm.evaluate(directory, 'dev.p1.out'))
 
-print('Evaluate on P2')
-print(hmm.evaluate(directory, 'dev.p2.out'))
+# print('Evaluate on P2')
+# print(hmm.evaluate(directory, 'dev.p2.out'))
 
 print('Evaluate on P3')
-print(hmm.evaluate(directory, 'dev.p3.out'))
+print(hmm.evaluate("RU/", 'dev.p3.out'))

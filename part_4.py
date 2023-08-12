@@ -1,83 +1,76 @@
+import numpy as np
 import tensorflow as tf
-import nltk
+# from tensorflow.keras.models import Sequential
+# from tensorflow.keras.layers import Embedding, Conv1D, MaxPooling1D, Flatten, Dense, Dropout
+# from tensorflow.keras.preprocessing.sequence import pad_sequences
 
-def tokenize_and_pad(tweet, sequence_length):
-  """Tokenizes and pads a tweet.
+sentences = []
+labels = []
+current_sentence = []
+current_labels = []
 
-  Args:
-    tweet: The tweet to tokenize and pad.
-    sequence_length: The desired length of the padded tweet.
+# Read the .txt file line by line
+with open('RU/train', 'r', encoding='utf-8') as file:
+    for line in file:
+        line = line.strip()
+        if line:  # If the line is not empty
+            word, label = line.split()
+            current_sentence.append(word)
+            current_labels.append(label)
+        else:  # Empty line indicates the end of the current sentence
+            if current_sentence:  # Ensure it's not an extra empty line
+                sentences.append(current_sentence)
+                labels.append(current_labels)
+                current_sentence = []
+                current_labels = []
 
-  Returns:
-    The tokenized and padded tweet.
-  """
+# Convert labels to sequences of numerical values
+sentiment_to_label = {"O": 0, "B-positive": 1, "B-negative": 2, 'B-neutral':3, 'I-positive':4, 'I-neutral':5, 'I-negative':6}  # Map sentiment labels to numerical values
+encoded_labels = [[sentiment_to_label[tag] for tag in label] for label in labels]
 
-  # Tokenize the tweet.
-  tokens = nltk.word_tokenize(tweet)
+print(sentiment_to_label)
+print(encoded_labels)
 
-  # Pad the tweet to the desired length.
-  padded_tokens = [0] * sequence_length
-  for i in range(len(tokens)):
-    if i < sequence_length:
-      padded_tokens[i] = tokens[i]
-
-  return padded_tokens
-
-
-def preprocess_training_data(training_data, sequence_length):
-  """Preprocesses the training data.
-
-  Args:
-    training_data: The training data to preprocess.
-    sequence_length: The desired length of the padded tweet.
-
-  Returns:
-    A list of tokenized and padded tweets.
-  """
-
-  preprocessed_training_data = []
-  for tweet in training_data:
-    preprocessed_training_data.append(tokenize_and_pad(tweet, sequence_length))
-
-  return preprocessed_training_data
+# # Now you have 'sentences' as tokenized sentences and 'encoded_labels' as corresponding sentiment labels
 
 
-if __name__ == "__main__":
-  # Load the training data.
-  with open("RU/train", "r") as f:
-    training_data = f.readlines()
+# # Assuming you have preprocessed data, word embeddings, and labels
 
-  # Preprocess the training data.
-  preprocessed_training_data = preprocess_training_data(training_data, 30)
+# # Define model parameters
+# embedding_dim = 100
+# input_length = 103  # Set this to your maximum sequence length
+# num_classes = 3  # Number of sentiment classes
 
-  # Save the preprocessed training data.
-  with open("preprocessed_training_data.txt", "w") as f:
-    for tweet in preprocessed_training_data:
-      f.write(" ".join(tweet) + "\n")
+# # Padding the sequences to a fixed length
+# padded_sequences = pad_sequences(sequences, maxlen=max_sequence_length, padding='post', truncating='post')
 
+# # Build the CNN model
+# model = Sequential()
+# model.add(Embedding(input_dim=vocab_size, output_dim=embedding_dim, input_length=input_length))
+# model.add(Conv1D(filters=128, kernel_size=5, activation='relu'))
+# model.add(MaxPooling1D(pool_size=2))
+# model.add(Flatten())
+# model.add(Dense(64, activation='relu'))
+# model.add(Dropout(0.5))
+# model.add(Dense(num_classes, activation='softmax'))
 
-# class CNNCRFSentimentModel(tf.keras.Model):
-#     def __init__(self, vocab_size, embedding_dim, num_classes):
-#         super(CNNCRFSentimentModel, self).__init__()
-#         self.embedding = tf.keras.layers.Embedding(vocab_size, embedding_dim)
-#         self.conv1 = tf.keras.layers.Conv1D(128, 3, activation='relu')
-#         self.pool1 = tf.keras.layers.MaxPooling1D(2)
-#         self.conv2 = tf.keras.layers.Conv1D(128, 4, activation='relu')
-#         self.pool2 = tf.keras.layers.MaxPooling1D(2)
-#         self.flatten = tf.keras.layers.Flatten()
-#         self.dense = tf.keras.layers.Dense(128, activation='relu')
-#         self.crf = tf.keras.layers.CRF(num_classes)
+# # Compile the model
+# model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 
-#     def call(self, x):
-#         x = self.embedding(x)
-#         x = self.conv1(x)
-#         x = self.pool1(x)
-#         x = self.conv2(x)
-#         x = self.pool2(x)
-#         x = self.flatten(x)
-#         x = self.dense(x)
-#         return self.crf(x)
+# # Convert labels to one-hot encoding
+# one_hot_labels = tf.keras.utils.to_categorical(labels, num_classes=num_classes)
 
-# model = CNNCRFSentimentModel(vocab_size=7881, embedding_dim=128, num_classes=3)
-# model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
-# model.fit(x_train, y_train, epochs=10)
+# # Train the model
+# model.fit(padded_sequences, one_hot_labels, epochs=10, batch_size=32, validation_split=0.1)
+
+# # Evaluate the model
+# evaluation = model.evaluate(padded_dev_sequences, one_hot_dev_labels)
+# print("Loss:", evaluation[0])
+# print("Accuracy:", evaluation[1])
+
+# # Predict sentiment labels for test data
+# predictions = model.predict(padded_test_sequences)
+
+# # Convert predictions to actual labels (e.g., using argmax)
+# predicted_labels = np.argmax(predictions, axis=1)
+
