@@ -10,14 +10,14 @@
 ! O
 ! O
 общее O
-цветовое O
+цветовое B-neutral
 решение O
 и O
-каждая B-negative
-деталь I-negative
-- O
+каждая B-neutral
+деталь I-neutral
+- I-neutral
 просто O
-восхитительны O
+восхитительны B-neutral
 ! O
 ! O
 ! O
@@ -27,18 +27,18 @@
 с I-neutral
 популярным I-neutral
 сейчас O
-минимализмом O
+минимализмом B-neutral
 , O
 Дача O
 - O
 самое O
-домашне-уютное O
+домашне-уютное B-neutral
 и O
 при O
 этом O
 очень O
-красивое O
-место B-positive
+красивое B-neutral
+место O
 . O
 
 Средний B-neutral
@@ -49,7 +49,7 @@
 . O
 но O
 только O
-сугубо O
+сугубо B-neutral
 из-за O
 вина O
 . O
@@ -58,8 +58,8 @@
 же O
 касается O
 и O
-внешнего B-positive
-вида I-positive
+внешнего B-neutral
+вида O
 официанток O
 . O
 
@@ -87,33 +87,33 @@
 с O
 первой O
 же O
-секунды O
+секунды B-neutral
 в O
 ресторане O
-ощущалось O
+ощущалось B-neutral
 настроение O
 праздника O
 весь O
 персонал B-positive
 улыбался O
 и O
-поздравлял O
+поздравлял B-neutral
 ! O
 было O
 очень O
 приятно O
 ! O
 =) O
-кухня B-positive
-бесподобная I-positive
+кухня B-neutral
+бесподобная I-neutral
 , O
 все O
 гости O
 наелись O
 " O
 до O
-отвала B-positive
-" I-positive
+отвала B-neutral
+" O
 все O
 было O
 очень O
@@ -135,24 +135,24 @@
 
 Муж O
 - O
-испанец O
+испанец B-neutral
 , O
 в O
 ресторан O
 просто O
-влюбился O
+влюбился B-neutral
 . O
 
 Официанта B-neutral
 то O
 не O
-дождешься O
+дождешься B-neutral
 , O
 то O
 еще O
 доесть O
 не O
-успел O
+успел B-neutral
 , O
 уже O
 тарелку B-positive
@@ -162,7 +162,7 @@
 Сделали O
 заказ O
 и O
-приготовились O
+приготовились B-neutral
 ждать O
 ... O
 
@@ -173,18 +173,18 @@
 , O
 кто O
 знает O
-толк O
+толк B-neutral
 в O
 приличных O
 ресторанах O
 , O
-ХОДИТЬ O
+ХОДИТЬ B-neutral
 В O
 " B-neutral
 ПОВАРИ I-neutral
 " I-neutral
 НЕ O
-РЕКОМЕНДУЮ O
+РЕКОМЕНДУЮ B-neutral
 ! O
 
 Второе B-neutral
@@ -192,7 +192,7 @@
 этого O
 ресторана O
 очень O
-разочаровало O
+разочаровало B-neutral
 . O
 
 Обслуживал O
@@ -218,7 +218,7 @@
 
 В O
 итоге O
-подругам O
+подругам B-neutral
 пришлось O
 есть O
 все O
@@ -240,7 +240,7 @@
 поставил O
 4 O
 - O
-ку O
+ку B-neutral
 . O
 
 На O
@@ -265,8 +265,8 @@
 , O
 при O
 всей O
-крутизне B-negative
-антуража I-negative
+крутизне B-neutral
+антуража I-neutral
 больше O
 туда O
 идти O
@@ -277,7 +277,7 @@
 Официантку B-neutral
 пришлось O
 долго O
-ждать-при O
+ждать-при B-neutral
 условии O
 того O
 , O
@@ -311,7 +311,7 @@
 зайти O
 перекусить O
 и O
-убежать O
+убежать B-neutral
 - O
 хорошее O
 место B-positive
@@ -405,11 +405,11 @@
 центр O
 города O
 и O
-сравниваю B-positive
-с I-positive
+сравниваю B-neutral
+с O
 другими O
-суши B-positive
-барами I-positive
+суши B-negative
+барами I-negative
 =) O
 
 Минут O
@@ -417,11 +417,11 @@
 готовили O
 , O
 для O
-пустого O
+пустого B-neutral
 заведения O
 , O
 это O
-по-мойму O
+по-мойму B-neutral
 долго O
 . O
 
@@ -438,7 +438,7 @@
 решили O
 с O
 подругой O
-зайти-перекусить O
+зайти-перекусить B-neutral
 , O
 в O
 этом O
@@ -446,7 +446,7 @@
 была O
 последний O
 раз O
-давно-года O
+давно-года B-neutral
 4 O
 назад O
 , O
@@ -454,17 +454,17 @@
 , O
 что O
 самую O
-вкусную B-positive
-пиццу I-positive
-на I-positive
-тонком I-positive
-тесте I-positive
+вкусную B-neutral
+пиццу O
+на O
+тонком B-neutral
+тесте I-neutral
 ела O
 я O
 именно O
 в O
-Da B-negative
-Albertone I-negative
+Da B-neutral
+Albertone I-neutral
 , O
 но O
 с O
@@ -472,30 +472,30 @@ Albertone I-negative
 пор O
 не O
 получалось O
-навестить O
+навестить B-neutral
 это O
 итальянское O
 место B-positive
 , O
 очень O
-рада O
+рада B-neutral
 , O
 что O
 они O
 до O
 сих O
 пор O
-существуют O
+существуют B-neutral
 , O
 да O
 и O
-развились O
+развились B-neutral
 . O
 
 Открывайте B-neutral
 такой O
 в O
-Озерках O
+Озерках B-neutral
 или O
 где-нибудь B-negative
 на I-negative
@@ -520,11 +520,11 @@ Albertone I-negative
 то O
 , O
 как O
-справляются B-positive
-с I-positive
+справляются B-neutral
+с O
 этим O
-потоком O
-официанты B-positive
+потоком B-neutral
+официанты O
 и O
 повара O
 . O
@@ -578,7 +578,7 @@ Albertone I-negative
 приемлемые O
 цены O
 и O
-высокое O
+высокое B-neutral
 качество O
 обслуживания O
 ! O
@@ -624,12 +624,12 @@ Albertone I-negative
 динамиков I-negative
 сначала O
 просто O
-оглушала O
+оглушала B-neutral
 , O
 потом O
 ничего O
 - O
-привыкли O
+привыкли B-neutral
 . O
 
 Салаты B-positive
@@ -701,8 +701,8 @@ Albertone I-negative
 официанты B-positive
 , O
 очень O
-дружественная O
-атмосфера B-positive
+дружественная B-neutral
+атмосфера O
 ! O
 
 По O
@@ -723,7 +723,7 @@ Albertone I-negative
 , O
 а O
 также O
-починить O
+починить B-neutral
 окно O
 в O
 " B-neutral
@@ -735,11 +735,11 @@ Albertone I-negative
 которое O
 очень O
 сильно O
-дуло O
+дуло B-neutral
 , O
 про O
 отсутствие O
-вытяжки O
+вытяжки B-neutral
 - O
 писал O
 уже O
@@ -757,7 +757,7 @@ Albertone I-negative
 , O
 пришлось O
 вежливо O
-напомнить O
+напомнить B-neutral
 и O
 все O
 появилось O
@@ -795,14 +795,14 @@ Albertone I-negative
 Ужас O
 этого O
 вечера O
-продолжался O
+продолжался B-neutral
 ! O
 
 Выбрали O
 для O
 романтического O
 вечера O
-Макарену O
+Макарену B-neutral
 и O
 очень O
 довольны O
@@ -813,7 +813,7 @@ Albertone I-negative
 десертов O
 оказывается O
 вообще O
-маленьким O
+маленьким B-neutral
 . O
 
 Из O
@@ -845,7 +845,7 @@ Albertone I-negative
 не O
 могу O
 что-то O
-выделить O
+выделить B-neutral
 особенно O
 . O
 все O
@@ -878,10 +878,10 @@ Albertone I-negative
 Салат B-positive
 оказался O
 приправлен B-neutral
-слишком I-neutral
-острым I-neutral
-соусом I-neutral
-. I-neutral
+слишком O
+острым O
+соусом O
+. O
 
 ждали O
 долго O
@@ -910,7 +910,7 @@ Albertone I-negative
 НО O
 ... O
 благодарность O
-заслужил O
+заслужил B-neutral
 только O
 на O
 словах O
@@ -934,8 +934,8 @@ Albertone I-negative
 . O
 
 Из O
-конкретных B-positive
-блюд I-positive
+конкретных B-negative
+блюд I-negative
 могу O
 отметить O
 крем-суп B-negative
@@ -949,14 +949,14 @@ Albertone I-negative
 
 Мясо B-positive
 просто O
-таяло O
+таяло B-neutral
 во O
 рту O
 ... O
 
 Ужинали O
 с O
-сестрой O
+сестрой B-neutral
 на O
 2 O
 этаже O
@@ -1006,20 +1006,20 @@ Albertone I-negative
 хотела O
 , O
 когда O
-клиент B-negative
-просит I-negative
+клиент B-neutral
+просит I-neutral
 помочь O
 определиться O
 , O
 он O
 не O
 хочет O
-услышать B-positive
-" I-positive
+услышать B-neutral
+" O
 все O
 вкусное O
 , O
-берите O
+берите B-neutral
 все O
 " O
 ) O
@@ -1039,8 +1039,8 @@ Albertone I-negative
 . O
 
 На O
-2ом B-positive
-этаже I-positive
+2ом B-neutral
+этаже O
 была O
 раза O
 два O
@@ -1049,7 +1049,7 @@ Albertone I-negative
 Официантка B-negative
 , O
 все O
-делала O
+делала B-neutral
 четко O
 . O
 
@@ -1120,13 +1120,13 @@ Albertone I-negative
 если O
 так O
 все O
-жестко O
+жестко B-neutral
 - O
 то O
-предупредили O
+предупредили B-neutral
 бы O
 о O
-депозите O
+депозите B-neutral
 , O
 все O
 равно O
@@ -1150,8 +1150,8 @@ Albertone I-negative
 . O
 
 Цены O
-пивного B-positive
-ресторана I-positive
+пивного B-neutral
+ресторана O
 , O
 а O
 обслуживание B-neutral
@@ -1181,14 +1181,14 @@ Albertone I-negative
 и O
 чизкейк O
 с O
-Филадельфией O
+Филадельфией B-neutral
 , O
 фруктовый B-neutral
 тар-тар O
 в O
-положительную O
+положительную B-neutral
 сторону O
-изменили O
+изменили B-neutral
 мое O
 отношение O
 к O
@@ -1198,12 +1198,12 @@ Albertone I-negative
 Зашли O
 случайно O
 , O
-обе O
+обе B-neutral
 в O
 китайских O
 ресторанах O
 не O
-бывали O
+бывали B-neutral
 , O
 решили O
 попробовать O
@@ -1227,13 +1227,13 @@ Albertone I-negative
 меню O
 даже O
 не O
-открывал O
+открывал B-neutral
 , O
 в O
 отличии O
 меня O
 , O
-изучившей O
+изучившей B-neutral
 его O
 за O
 20 O
@@ -1277,7 +1277,7 @@ Albertone I-negative
 будем O
 приходить O
 сюда O
-ещеи O
+ещеи B-neutral
 еще O
 ! O
 
@@ -1303,11 +1303,11 @@ Albertone I-negative
 что O
 столики O
 ( O
-справа O
+справа B-neutral
 от O
 входа O
 ) O
-поставлены O
+поставлены B-neutral
 очень O
 близко O
 друг O
@@ -1344,28 +1344,28 @@ Albertone I-negative
 закуски I-neutral
 совсем O
 не O
-банальные O
+банальные B-neutral
 как O
 в O
-большинстве O
+большинстве B-neutral
 заведений O
 . O
 
 Массмидия O
-учите O
+учите B-neutral
 свой O
 персонал B-positive
 , O
 ведь O
 это O
-залог B-negative
-успеха I-negative
+залог B-neutral
+успеха I-neutral
 . O
 
 Заказав O
 в O
 качестве O
-аперитива O
+аперитива B-neutral
 бокал O
 белого B-positive
 вина I-positive
@@ -1378,12 +1378,12 @@ Albertone I-negative
 и O
 мой O
 бокал O
-унесли B-negative
-в I-negative
-холодильник I-negative
+унесли B-neutral
+в I-neutral
+холодильник I-neutral
 ... O
 кто-то O
-пил O
+пил B-neutral
 , O
 а O
 я O
@@ -1391,8 +1391,8 @@ Albertone I-negative
 своего O
 бокала O
 , O
-попросив O
-для O
+попросив B-neutral
+для I-neutral
 бизнес-ланча O
 хлебную O
 тарелку B-positive
@@ -1404,11 +1404,11 @@ Albertone I-negative
 нам O
 в O
 качестве O
-бонуса O
+бонуса B-neutral
 при O
 заказе O
-вина O
-дадут O
+вина B-positive
+дадут I-positive
 брускеты B-positive
 и O
 мы O
@@ -1447,7 +1447,7 @@ Albertone I-negative
 нас O
 никогда O
 не O
-возникало O
+возникало B-neutral
 проблем O
 с O
 его O
@@ -1506,9 +1506,9 @@ Albertone I-negative
 за O
 это O
 время O
-вырастили O
+вырастили B-neutral
 новый O
-виноград O
+виноград B-neutral
 и O
 уже O
 из O
@@ -1535,7 +1535,7 @@ Albertone I-negative
 ним O
 иногда O
 приносят O
-сливочное O
+сливочное B-neutral
 масло O
 ) O
 ) O
@@ -1550,20 +1550,20 @@ Albertone I-negative
 
 В O
 целом O
-интерьер B-positive
-недорогой I-positive
+интерьер B-neutral
+недорогой I-neutral
 но O
 интересный O
 . O
 
 Днем B-neutral
 там O
-малолюдно O
+малолюдно B-neutral
 и O
 привлекает O
 20 O
-процентная B-negative
-скидка I-negative
+процентная B-neutral
+скидка I-neutral
 на O
 все O
 блюда O
@@ -1617,7 +1617,7 @@ Albertone I-negative
 всего O
 лишь O
 не O
-повело O
+повело B-neutral
 , O
 но O
 увы O
@@ -1665,10 +1665,10 @@ Albertone I-negative
 Икея I-neutral
 отношусь I-neutral
 скорее O
-положительно O
+положительно B-neutral
 , O
 чем O
-отрицательно O
+отрицательно B-neutral
 ) O
 ) O
 ) O
@@ -1713,15 +1713,15 @@ Pулька B-neutral
 бы O
 за O
 эту O
-идею O
+идею B-neutral
 , O
 хотя O
-старенький O
-интерьер B-positive
+старенький B-neutral
+интерьер O
 , O
 немного O
-обшарпанная O
-мебель B-positive
+обшарпанная B-neutral
+мебель O
 не O
 мешают O
 приезжать O
@@ -1744,7 +1744,7 @@ Pулька B-neutral
 , O
 к O
 сожалению O
-фамилию O
+фамилию B-neutral
 не O
 знаю O
 , O
@@ -1779,7 +1779,7 @@ Pулька B-neutral
 , O
 и O
 , O
-каково O
+каково B-neutral
 же O
 было O
 наше O
@@ -1801,8 +1801,8 @@ Pулька B-neutral
 вкусно O
 приготовлено O
 , O
-подается B-negative
-во-время I-negative
+подается B-neutral
+во-время I-neutral
 . O
 
 Драники B-neutral
@@ -1837,17 +1837,17 @@ Pулька B-neutral
 по-менгрельски I-positive
 ( O
 1 O
-шт O
+шт B-neutral
 . O
 ) O
 получилось O
 всем O
 по O
-кусочку O
+кусочку B-neutral
 . O
 
-Пили B-positive
-пиво I-positive
+Пили B-neutral
+пиво O
 в O
 этом O
 заведении O
@@ -1892,7 +1892,7 @@ Pулька B-neutral
 бы O
 не O
 понравилось O
-что-либо O
+что-либо B-neutral
 . O
 
 Первый O
@@ -1919,8 +1919,8 @@ Pулька B-neutral
 , O
 компанией O
 из O
-трех B-positive
-человек I-positive
+трех B-neutral
+человек O
 были O
 в O
 данном O
@@ -1930,7 +1930,7 @@ Pулька B-neutral
 так O
 и O
 не O
-определился O
+определился B-neutral
 кафе O
 это O
 или O
@@ -1969,12 +1969,12 @@ Pулька B-neutral
 с O
 видом O
 на O
-кухню B-positive
-" I-positive
-и I-positive
-" I-positive
-курящий I-positive
-" I-positive
+кухню O
+" B-neutral
+и I-neutral
+" I-neutral
+курящий I-neutral
+" I-neutral
 , O
 а O
 в O
@@ -1984,25 +1984,25 @@ Pулька B-neutral
 зале O
 полностью O
 отсутствует O
-вытяжка O
+вытяжка B-neutral
 , O
 я O
 даже O
 себе O
-представил O
+представил B-neutral
 , O
 что O
 будет O
 , O
 если O
 там O
-соберется O
+соберется B-neutral
 несколько O
 компаний O
 и O
-плотно O
+плотно B-neutral
 так O
-закурят O
+закурят B-neutral
 , O
 придется O
 открывать O
@@ -2013,9 +2013,9 @@ Pулька B-neutral
 , O
 очень O
 дует B-neutral
-- I-neutral
-к I-neutral
-уюту I-neutral
+- O
+к O
+уюту O
 сразу O
 ! O
 
@@ -2052,18 +2052,18 @@ Pулька B-neutral
 . O
 
 Показалось O
-странным O
+странным B-neutral
 маленький O
 выбор O
 пиццы O
 , O
 с O
 учетом O
-заявленного B-negative
-в I-negative
-названии I-negative
-ИТАЛЬЯНСКОГО I-negative
-ресторана I-negative
+заявленного B-neutral
+в I-neutral
+названии I-neutral
+ИТАЛЬЯНСКОГО I-neutral
+ресторана O
 . O
 
 Торт O
@@ -2116,13 +2116,13 @@ Pулька B-neutral
 , O
 как O
 только O
-видят O
+видят B-neutral
 , O
 что O
-посетитель O
+посетитель B-neutral
 пришел O
 с O
-цветами O
+цветами B-neutral
 . O
 
 Итог O
@@ -2131,9 +2131,9 @@ Pулька B-neutral
 понравился O
 . O
 
-Кушали B-positive
-цезарь I-positive
-с I-positive
+Кушали B-negative
+цезарь I-negative
+с I-negative
 тунцом O
 ( O
 очень O
@@ -2151,7 +2151,7 @@ Pулька B-neutral
 , O
 видимо O
 , O
-комплимента O
+комплимента B-neutral
 подали O
 ягодный O
 сорбет B-positive
@@ -2202,7 +2202,7 @@ Pулька B-neutral
 Ребята O
 работают O
 в O
-команде O
+команде B-neutral
 , O
 все O
 время O
@@ -2284,7 +2284,7 @@ Pулька B-neutral
 хорошо O
 приготовлен O
 , O
-приправа O
+приправа B-neutral
 в O
 меру O
 . O
@@ -2306,7 +2306,7 @@ Pулька B-neutral
 у O
 вас O
 такое O
-предусмотрено O
+предусмотрено B-neutral
 . O
 
 Нас O
@@ -2317,12 +2317,12 @@ Pулька B-neutral
 у O
 него O
 красная O
-повязка O
+повязка B-neutral
 , O
 у O
 остальных O
 - O
-желтая O
+желтая B-neutral
 ) O
 . O
 
@@ -2349,8 +2349,8 @@ Pулька B-neutral
 выразить O
 благодарность O
 этому O
-прекрасному O
-ресторану B-positive
+прекрасному B-neutral
+ресторану O
 ! O
 
 Кухня B-positive
@@ -2362,7 +2362,7 @@ Pулька B-neutral
 , O
 вкусное O
 и O
-аутентичное O
+аутентичное B-neutral
 ) O
 
 Сегодня O
@@ -2434,9 +2434,9 @@ Pулька B-neutral
 своим O
 гостям O
 и O
-помнит O
+помнит B-neutral
 всех O
-постоянных O
+постоянных B-neutral
 ) O
 
 Ребята O
@@ -2448,19 +2448,19 @@ Pулька B-neutral
 как O
 то O
 это O
-поощряет O
+поощряет B-neutral
 и O
 мой O
 отзыв O
 не O
 останется O
-незамеченным O
+незамеченным B-neutral
 ... O
 
 В O
 зале O
 постоянно O
-находилось O
+находилось B-neutral
 на O
 обслуживании O
 человека O
@@ -2469,20 +2469,20 @@ Pулька B-neutral
 так O
 что O
 на O
-зов B-negative
-являлись I-negative
+зов B-neutral
+являлись I-neutral
 в O
 течение O
 минуты O
 . O
 
 Все O
-своевременно O
+своевременно B-neutral
 , O
 сидеть O
 над O
-пустой B-negative
-тарелкой I-negative
+пустой B-neutral
+тарелкой I-neutral
 не O
 пришлось O
 . O
@@ -2523,7 +2523,7 @@ Pулька B-neutral
 блюд I-positive
 и O
 каждый O
-утверждал O
+утверждал B-neutral
 , O
 что O
 у O
@@ -2545,9 +2545,9 @@ Pулька B-neutral
 время O
 здесь O
 многое O
-успело B-negative
-измениться I-negative
-- O
+успело B-neutral
+измениться I-neutral
+- I-neutral
 раньше O
 это O
 был O
@@ -2561,7 +2561,7 @@ Pулька B-neutral
 сейчас O
 они O
 стали O
-активнее O
+активнее B-neutral
 . O
 
 Тихая B-neutral
@@ -2575,17 +2575,17 @@ Pулька B-neutral
 очередь O
 хочу O
 поблагодарить O
-администратора B-negative
-Наталью I-negative
+администратора B-neutral
+Наталью I-neutral
 , O
 за O
 отличное O
 и O
-преданное O
+преданное B-neutral
 отношение O
 к O
 своему O
-делу O
+делу B-neutral
 . O
 
 Внутри O
@@ -2622,7 +2622,7 @@ Pулька B-neutral
 , O
 если O
 стоит O
-задача O
+задача B-neutral
 найти O
 уютное O
 недорогое O
@@ -2630,7 +2630,7 @@ Pулька B-neutral
 в O
 районе O
 метро O
-московская O
+московская B-neutral
 , O
 то O
 это O
@@ -2672,7 +2672,7 @@ Pулька B-neutral
 все O
 же O
 в O
-конце-концов O
+конце-концов B-neutral
 могут O
 спокойно O
 захомячить B-neutral
@@ -2690,11 +2690,11 @@ Pулька B-neutral
 
 Надеюсь O
 , O
-васаби B-negative
-измениться I-negative
+васаби B-neutral
+измениться I-neutral
 снова O
 в O
-лучшую O
+лучшую B-neutral
 сторону O
 . O
 
@@ -2705,7 +2705,7 @@ Pулька B-neutral
 случайно O
 , O
 благодаря O
-ГРУППОНУ O
+ГРУППОНУ B-neutral
 . O
 
 В O
@@ -2743,21 +2743,21 @@ Pулька B-neutral
 а O
 не O
 писать O
-чушь O
+чушь B-neutral
 про O
 салаты B-positive
 из I-positive
 холодильника O
 . O
 
-Блюдо I-neutral
-было I-neutral
-нежнейшим I-neutral
-, I-neutral
-таяло I-neutral
-во I-neutral
-рту I-neutral
-! I-neutral
+Блюдо O
+было O
+нежнейшим O
+, O
+таяло O
+во O
+рту O
+! O
 
 Порции B-positive
 большие O
@@ -2766,8 +2766,8 @@ Pулька B-neutral
 , O
 что O
 осталось O
-упаковывают B-positive
-с I-positive
+упаковывают B-neutral
+с O
 собой O
 . O
 
@@ -2795,7 +2795,7 @@ Pулька B-neutral
 все O
 это O
 сопровождалось O
-надменным O
+надменным B-neutral
 выражением O
 лица O
 официантки O
@@ -2809,7 +2809,7 @@ Pулька B-neutral
 сентября O
 в O
 компании O
-прелестной O
+прелестной B-neutral
 спутницы O
 . O
 
@@ -2840,7 +2840,7 @@ Pулька B-neutral
 , O
 как O
 и O
-многим O
+многим B-neutral
 , O
 кто O
 здесь O
@@ -2860,8 +2860,8 @@ Pулька B-neutral
 обратить O
 внимание O
 на O
-чистоту B-negative
-скатертей I-negative
+чистоту B-neutral
+скатертей I-neutral
 , O
 не O
 всегда O
@@ -2880,7 +2880,7 @@ Pулька B-neutral
 оставаться O
 такими O
 же O
-самобытными O
+самобытными B-neutral
 и O
 оригинальными O
 ! O
@@ -2905,7 +2905,7 @@ Pулька B-neutral
 подачи B-positive
 блюд I-positive
 до O
-элементарной O
+элементарной B-neutral
 чистоты O
 на O
 столах O
@@ -2960,7 +2960,7 @@ Pулька B-neutral
 суши O
 были O
 настолько O
-солеными O
+солеными B-neutral
 , O
 что O
 есть O
@@ -2969,7 +2969,7 @@ Pулька B-neutral
 невозможно O
 , O
 то O
-пирожок O
+пирожок B-neutral
 к O
 первому O
 блюду O
@@ -2982,7 +2982,7 @@ Pулька B-neutral
 само O
 первое O
 было O
-съедено O
+съедено B-neutral
 . O
 
 Из O
@@ -3005,8 +3005,8 @@ Pулька B-neutral
 
 Официанты B-positive
 знают O
-чётко B-negative
-своё I-negative
+чётко B-neutral
+своё I-neutral
 дело O
 , O
 расскажут O
@@ -3014,14 +3014,14 @@ Pулька B-neutral
 всех O
 блюдах O
 , O
-дадут O
+дадут B-neutral
 совет O
 , O
 что O
 выбрать O
 , O
 не O
-тупят O
+тупят B-neutral
 если O
 спросить O
 состав O
@@ -3033,8 +3033,8 @@ Pулька B-neutral
 прекрасное O
 .. O
 
-Пробовала B-negative
-пасту I-negative
+Пробовала B-neutral
+пасту O
 , O
 ее O
 сейчас O
@@ -3055,7 +3055,7 @@ Pулька B-neutral
 ! O
 сочно O
 , O
-ароматно O
+ароматно B-neutral
 , O
 вкусно O
 и O
@@ -3068,7 +3068,7 @@ Pулька B-neutral
 , O
 поэтому O
 нам O
-достался O
+достался B-neutral
 столик O
 у O
 окна O
@@ -3076,7 +3076,7 @@ Pулька B-neutral
 видом O
 на O
 Большой O
-проспект O
+проспект B-neutral
 . O
 
 S O
@@ -3107,10 +3107,10 @@ S O
 
 Как O
 и O
-большинству O
+большинству B-neutral
 знакомых O
 , O
-посетивших O
+посетивших B-neutral
 данное O
 место B-positive
 , O
@@ -3131,15 +3131,15 @@ S O
 разнообразное O
 . O
 
-Последний I-neutral
-раз I-neutral
-были I-neutral
-21 I-neutral
-января I-neutral
-, I-neutral
-отлично I-neutral
-посидели I-neutral
-! I-neutral
+Последний O
+раз O
+были O
+21 O
+января O
+, O
+отлично O
+посидели O
+! O
 
 Встретила O
 и O
@@ -3166,9 +3166,9 @@ S O
 Очень O
 помогла O
 с O
-меню O
-и O
-свадебным O
+меню B-neutral
+и I-neutral
+свадебным I-neutral
 тортом O
 ! O
 
@@ -3209,9 +3209,9 @@ S O
 ) O
 ) O
 , O
-холодный B-positive
-рыбный I-positive
-рулет I-positive
+холодный B-neutral
+рыбный I-neutral
+рулет O
 и O
 , O
 корюшка B-neutral
@@ -3221,15 +3221,15 @@ S O
 и O
 овощами O
 - O
-поистине B-negative
-красивое I-negative
+поистине B-neutral
+красивое I-neutral
 и O
 вкусное O
 блюдо O
 . O
 
 Хорошая O
-энергетика O
+энергетика B-neutral
 в O
 этом O
 ресторане O
@@ -3238,7 +3238,7 @@ S O
 создают O
 внимательные O
 и O
-профессиональные O
+профессиональные B-neutral
 люди O
 . O
 
@@ -3260,12 +3260,12 @@ S O
 На O
 первом O
 этаже O
-открытая B-positive
-кухня I-positive
+открытая B-neutral
+кухня O
 , O
 все O
-выложено B-negative
-плиточкой I-negative
+выложено B-neutral
+плиточкой I-neutral
 и O
 много O
 столов O
@@ -3283,10 +3283,10 @@ S O
 хотя O
 бы O
 что-то O
-оригинальное O
-для O
+оригинальное B-neutral
+для I-neutral
 такого O
-формата O
+формата B-neutral
 . O
 
 Персонал B-positive
@@ -3296,7 +3296,7 @@ S O
 отдал I-neutral
 нам O
 , O
-вплоть O
+вплоть B-neutral
 до O
 наших O
 начатых B-negative
@@ -3306,32 +3306,32 @@ S O
 
 Рестораном B-neutral
 трудно O
-назвать O
+назвать B-neutral
 , O
 но O
 и O
-категорию O
+категорию B-neutral
 кафе O
 , O
 на O
 мой O
 взгляд O
 , O
-заведение B-neutral
-превосходит I-neutral
-, I-neutral
-- I-neutral
-скорее I-neutral
-- I-neutral
-уютный I-neutral
-, I-neutral
-небольшой I-neutral
-уголок I-neutral
-итальянской I-neutral
-кухни I-neutral
-! I-neutral
-! I-neutral
-! I-neutral
+заведение B-negative
+превосходит I-negative
+, O
+- O
+скорее O
+- O
+уютный O
+, O
+небольшой O
+уголок O
+итальянской O
+кухни O
+! O
+! O
+! O
 
 С O
 первого O
@@ -3344,7 +3344,7 @@ S O
 в O
 течение O
 которого O
-неоднократно O
+неоднократно B-neutral
 бывала O
 в O
 ресторане O
@@ -3354,9 +3354,9 @@ S O
 было O
 вызвано O
 чисто O
-объективными B-negative
-обстоятельствами I-negative
-- O
+объективными B-neutral
+обстоятельствами I-neutral
+- I-neutral
 удобное O
 расположение B-positive
 к O
@@ -3378,13 +3378,13 @@ S O
 Как O
 будто O
 с O
-пола B-negative
-поднятый I-negative
+пола B-neutral
+поднятый I-neutral
 рис O
 был O
 , O
 огромные O
-комки O
+комки B-neutral
 . O
 
 Здравствуйте O
@@ -3425,7 +3425,7 @@ S O
 решив I-neutral
 больше O
 не O
-экспериментировать O
+экспериментировать B-neutral
 , O
 взял O
 , O
@@ -3465,7 +3465,7 @@ S O
 видно O
 , O
 и O
-вывеска O
+вывеска B-neutral
 не O
 очень O
 располагает O
@@ -3510,7 +3510,7 @@ S O
 обслуживание B-positive
 тоже O
 ( O
-девушки-официантки O
+девушки-официантки B-neutral
 замечательные O
 ) O
 . O
@@ -3524,7 +3524,7 @@ S O
 и O
 сервис B-positive
 несколько O
-тормознут O
+тормознут B-neutral
 , O
 девушка B-positive
 и O
@@ -3536,13 +3536,13 @@ S O
 были O
 , O
 больше O
-занимались O
+занимались B-neutral
 своими O
-делами O
+делами B-neutral
 ! O
 
 Настроение O
-импортилось O
+импортилось B-neutral
 . O
 
 Оставили B-neutral
@@ -3595,8 +3595,8 @@ S O
 Рекомендуем O
 . O
 
-интерьер B-positive
-отлиный I-positive
+интерьер B-neutral
+отлиный I-neutral
 , O
 персонал B-positive
 тоже O
@@ -3641,7 +3641,7 @@ S O
 временем O
 будет O
 только O
-становиться O
+становиться B-neutral
 лучше O
 . O
 
@@ -3649,21 +3649,21 @@ S O
 , O
 мы O
 с O
-вами O
+вами B-neutral
 ! O
-p O
+p B-neutral
 . O
 s O
 . O
 там O
 всегда O
-многолюдно O
+многолюдно B-neutral
 , O
 мне O
 кажется O
 , O
 это O
-показатель O
+показатель B-neutral
 того O
 , O
 что O
@@ -3702,10 +3702,10 @@ s O
 Следующее B-neutral
 на O
 что O
-обращаешь O
+обращаешь B-neutral
 внимание O
 , O
-попав O
+попав B-neutral
 в O
 ресторан O
 , O
@@ -3736,7 +3736,7 @@ s O
 встретили O
 гостей O
 и O
-именинницу O
+именинницу B-neutral
 , O
 было O
 видно O
@@ -3745,12 +3745,12 @@ s O
 нас O
 здесь O
 очень O
-ждут O
+ждут B-neutral
 . O
 
 Меню B-positive
 меня O
-поразило O
+поразило B-neutral
 : O
 большой O
 выбор B-negative
@@ -3797,7 +3797,7 @@ s O
 потом O
 про O
 нас O
-как-будто O
+как-будто B-neutral
 забыли O
 , O
 мы O
@@ -3805,7 +3805,7 @@ s O
 напитки I-negative
 и O
 хотели O
-повторить O
+повторить B-neutral
 их O
 , O
 но O
@@ -3835,8 +3835,8 @@ s O
 , O
 что O
 мы O
-всеми B-negative
-силами I-negative
+всеми B-neutral
+силами I-neutral
 пытались O
 обратить O
 на O
@@ -3845,10 +3845,10 @@ s O
 . O
 
 Не O
-судите O
+судите B-neutral
 человека O
 по O
-одёжке O
+одёжке B-neutral
 ... O
 9 O
 мая O
@@ -3902,8 +3902,8 @@ s O
 
 Но O
 если O
-управляющий B-negative
-уходит I-negative
+управляющий B-neutral
+уходит I-neutral
 куда-то O
 , O
 на O
@@ -3946,9 +3946,9 @@ s O
 что O
 заказали O
 , O
-соответствовало O
+соответствовало B-neutral
 своим O
-вкусовым O
+вкусовым B-neutral
 качествам O
 и O
 моему O
@@ -3967,7 +3967,7 @@ s O
 
 Салат B-positive
 принесли O
-быстро-очень O
+быстро-очень B-neutral
 понравился O
 ! O
 ! O
@@ -4002,7 +4002,7 @@ s O
 
 Расстройство B-neutral
 принесла O
-информация O
+информация B-neutral
 о O
 том O
 , O
@@ -4015,7 +4015,7 @@ s O
 хотят O
 убрать O
 из O
-меняю O
+меняю B-neutral
 ( O
 . O
 
@@ -4039,22 +4039,22 @@ s O
 весь O
 банкет O
 на O
-ручках O
+ручках B-neutral
 ( O
 и O
 то O
 видно O
 они O
 не O
-выдержали O
+выдержали B-neutral
 и O
 ушли O
 с O
 ребенком O
-пораньше O
+пораньше B-neutral
 не O
-дождавшись B-positive
-горячего I-positive
+дождавшись B-neutral
+горячего O
 ( O
 их O
 горячее O
@@ -4066,7 +4066,7 @@ s O
 завернули O
 ) O
 и O
-некоторым O
+некоторым B-neutral
 гостям O
 не O
 понравилось O
@@ -4089,16 +4089,16 @@ s O
 через O
 окно O
 с O
-Невского O
+Невского B-neutral
 меня O
-заставил O
+заставил B-neutral
 туда O
-заглянуть O
+заглянуть B-neutral
 . O
 
-Видно O
-официантам B-negative
-интереснее I-negative
+Видно B-neutral
+официантам O
+интереснее B-neutral
 общаться O
 с O
 барменом O
@@ -4112,8 +4112,8 @@ s O
 ресторана O
 . O
 
-Прекрасный O
-интерьер B-positive
+Прекрасный B-neutral
+интерьер O
 , O
 хорошее O
 обслуживание B-positive
@@ -4141,11 +4141,11 @@ s O
 Возможно O
 , O
 слишком O
-мягко-утопающие O
+мягко-утопающие B-neutral
 , O
 но O
 для O
-расслабленного O
+расслабленного B-neutral
 вечера O
 в O
 приятной O
@@ -4168,18 +4168,18 @@ s O
 
 Нашу B-neutral
 компанию O
-разместили O
+разместили B-neutral
 за O
-зановесочками O
+зановесочками B-neutral
 , O
 поэтому O
 наличие O
-множества B-negative
-отдыхающих I-negative
+множества B-neutral
+отдыхающих I-neutral
 никак O
 нам O
 не O
-мешало O
+мешало B-neutral
 . O
 
 Особенно O
@@ -4191,10 +4191,10 @@ s O
 ( O
 кажется O
 так O
-называлось O
+называлось B-neutral
 это O
-бесподобное B-positive
-блюдо I-positive
+бесподобное B-neutral
+блюдо O
 ) O
 , O
 умеренные O
@@ -4222,22 +4222,22 @@ s O
 через O
 15 O
 появилась O
-первая O
-порция B-positive
+первая B-neutral
+порция O
 пасты O
 ... O
 вторая O
 и O
-третья O
+третья B-neutral
 были O
-поданы O
+поданы B-neutral
 еще O
 минут O
 через O
 15 O
 , O
 а O
-последнюю O
+последнюю B-neutral
 порцию O
 принесли O
 когда O
@@ -4249,7 +4249,7 @@ s O
 Из O
 блюд O
 заказывали O
-томатный O
+томатный B-neutral
 суп O
 , O
 ризотто O
@@ -4268,7 +4268,7 @@ s O
 хватило O
 , O
 чтоб O
-оглядеться O
+оглядеться B-neutral
 ) O
 
 Салат B-positive
@@ -4286,8 +4286,8 @@ s O
 великолепные O
 ( O
 таких O
-гренок B-negative
-признаюсь I-negative
+гренок B-neutral
+признаюсь I-neutral
 честно O
 не O
 ел O
@@ -4296,7 +4296,7 @@ s O
 . O
 
 Нас O
-разместили O
+разместили B-neutral
 в O
 VIP O
 зале O
@@ -4317,11 +4317,11 @@ VIP O
 Заказали O
 мы O
 по O
-салату B-positive
-цезарь I-positive
-, O
-сырную O
-тарелку B-positive
+салату O
+цезарь B-neutral
+, I-neutral
+сырную I-neutral
+тарелку O
 , O
 девушка B-positive
 взяла O
@@ -4334,21 +4334,21 @@ VIP O
 я O
 же O
 взял O
-лимонад O
+лимонад B-neutral
 так O
 как O
 был O
 за O
-рулём O
+рулём B-neutral
 . O
 
 Надоели B-neutral
 заведения O
 , O
 которые O
-смешивают O
+смешивают B-neutral
 все O
-форматы O
+форматы B-neutral
 подряд O
 . O
 
@@ -4487,7 +4487,7 @@ VIP O
 ) O
 еще O
 хоть O
-улыбалась O
+улыбалась B-neutral
 . O
 
 По O
@@ -4496,12 +4496,12 @@ VIP O
 мы O
 выбираем O
 другие O
-суши-бары O
+суши-бары B-neutral
 ... O
 
 Вечер O
-запоминлся B-negative
-надолго I-negative
+запоминлся B-neutral
+надолго I-neutral
 . O
 
 Недавно O
@@ -4509,20 +4509,20 @@ VIP O
 повезло O
 и O
 я O
-выкроила O
+выкроила B-neutral
 время O
 , O
 чтобы O
 пойти O
 в O
-Екатериненский O
+Екатериненский B-neutral
 парк O
 . O
 
 Видя B-neutral
 некоторые O
 наши O
-затруднения O
+затруднения B-neutral
 , O
 очень O
 подробно O
@@ -4592,7 +4592,7 @@ VIP O
 белых I-positive
 грибов I-positive
 хорошей O
-прожарки O
+прожарки B-neutral
 , O
 очень O
 понравился O
@@ -4609,13 +4609,13 @@ VIP O
 там O
 , O
 оказался O
-суховат O
+суховат B-neutral
 , O
 но O
 приправив B-positive
 соусом I-positive
 вполне O
-сносно O
+сносно B-neutral
 . O
 
 Столики B-positive
@@ -4631,19 +4631,19 @@ VIP O
 окна O
 и O
 напротив O
-сцены O
+сцены B-neutral
 . O
 
 Если O
-заведение B-negative
-всеж I-negative
-называет I-negative
+заведение B-neutral
+всеж I-neutral
+называет I-neutral
 себя O
 рестораном O
 , O
 то O
-будьте B-negative
-добры I-negative
+будьте B-neutral
+добры I-neutral
 хотя O
 бы O
 горячее O
@@ -4673,7 +4673,7 @@ VIP O
 ресторана O
 , O
 очень O
-людно O
+людно B-neutral
 и O
 если O
 хотите O
@@ -4683,7 +4683,7 @@ VIP O
 , O
 то O
 обязательно O
-заказывайте O
+заказывайте B-neutral
 стол O
 заранее O
 . O
@@ -4706,12 +4706,12 @@ VIP O
 цезарь O
 250 O
 , O
-стейк B-positive
-550 I-positive
+стейк B-negative
+550 I-negative
 , O
 не O
 очень O
-завышены O
+завышены B-neutral
 цены O
 , O
 надеемся O
@@ -4723,13 +4723,13 @@ VIP O
 ! O
 ) O
 ) O
-планируем O
+планируем B-neutral
 там O
 провести O
 банкет O
 ... O
 на O
-Петроградской O
+Петроградской B-neutral
 один O
 из O
 лучших O
@@ -4748,11 +4748,11 @@ VIP O
 центре O
 , O
 с O
-разумными O
+разумными B-neutral
 ценами O
 и O
 весьма O
-комфортной O
+комфортной B-neutral
 обстановкой O
 ) O
 
@@ -4771,7 +4771,7 @@ VIP O
 накануне O
 мы O
 это O
-обговаривали O
+обговаривали B-neutral
 и O
 нам O
 сказали O
@@ -4780,7 +4780,7 @@ VIP O
 ни O
 каких O
 проблем O
-поставим O
+поставим B-neutral
 ! O
 
 С O
@@ -4822,8 +4822,8 @@ VIP O
 находится O
 , O
 новые O
-решения O
-интерьера B-positive
+решения B-neutral
+интерьера O
 . O
 
 Заказали O
@@ -4847,10 +4847,10 @@ VIP O
 животе I-negative
 уже O
 не O
-оставалось O
+оставалось B-neutral
 , O
 поэтому O
-раздавали O
+раздавали B-neutral
 гостям O
 в O
 домой O
@@ -4868,14 +4868,14 @@ VIP O
 
 Официанту B-neutral
 был O
-предоставлен O
+предоставлен B-neutral
 этот O
 волос O
 . O
 
 Пришли O
 , O
-по-началу O
+по-началу B-neutral
 было O
 все O
 хорошо O
@@ -4923,7 +4923,7 @@ VIP O
 заведение B-positive
 не O
 из O
-дешевых O
+дешевых B-neutral
 ! O
 
 В O
@@ -4931,7 +4931,7 @@ VIP O
 ресторане O
 мы O
 отмечали O
-десятую O
+десятую B-neutral
 годовщину O
 свадьбы O
 . O
@@ -4962,16 +4962,16 @@ VIP O
 так O
 что O
 в O
-холод O
+холод B-neutral
 в O
 этом O
 зале O
 , O
 который O
 при O
-входелучше O
+входелучше B-neutral
 не O
-заказывайть O
+заказывайть B-neutral
 столик O
 . O
 ) O
@@ -5049,7 +5049,7 @@ VIP O
 лососем I-positive
 - O
 достаточно O
-посредственный O
+посредственный B-neutral
 . O
 
 Разные B-neutral
@@ -5058,7 +5058,7 @@ VIP O
 и O
 всем O
 был O
-обеспечен O
+обеспечен B-neutral
 хороший O
 прием B-positive
 . O
@@ -5091,11 +5091,11 @@ VIP O
 за O
 столик O
 , O
-пепельница O
+пепельница B-neutral
 почему-то O
 уже O
 почти O
-полная O
+полная B-neutral
 была O
 . O
 
@@ -5117,36 +5117,36 @@ VIP O
 оригинально O
 , O
 шикарный O
-томатный B-positive
-соус I-positive
+томатный B-neutral
+соус O
 , O
 тонкий O
 вкус O
 , O
-веточки B-negative
-тимьяна I-negative
-- O
+веточки B-neutral
+тимьяна I-neutral
+- I-neutral
 очень O
-пикантно O
+пикантно B-neutral
 ! O
 
 кафе B-positive
 на O
 время O
-приготовлений B-negative
-закрыто I-negative
+приготовлений B-neutral
+закрыто I-neutral
 не O
 было O
 , O
 последний O
-посетитель O
+посетитель B-neutral
 ушел O
 за O
 5 O
 минут O
 до O
 нашего O
-приезда O
+приезда B-neutral
 ... O
 
 Праздновали O
@@ -5161,7 +5161,7 @@ VIP O
 место B-positive
 , O
 которое O
-сочетало O
+сочетало B-neutral
 бы O
 в O
 себе O
@@ -5172,7 +5172,7 @@ VIP O
 зал O
 ) O
 , O
-вкусную O
+вкусную B-neutral
 еду O
 , O
 приятный O
@@ -5184,11 +5184,11 @@ VIP O
 ( O
 на O
 счет O
-скидка B-negative
-33 I-negative
+скидка B-neutral
+33 I-neutral
 % O
 в O
-честь O
+честь B-neutral
 дня O
 рождения O
 ) O
@@ -5199,7 +5199,7 @@ VIP O
 было O
 несколько O
 очень O
-странных O
+странных B-neutral
 моментов O
 . O
 1 O
@@ -5232,7 +5232,7 @@ VIP O
 предложенного I-neutral
 рестораном O
 - O
-Диму O
+Диму B-neutral
 . O
 
 Общие B-neutral
@@ -5264,7 +5264,7 @@ VIP O
 
 Официант B-positive
 вообще O
-прокомментировала O
+прокомментировала B-neutral
 это O
 так O
 , O
@@ -5298,7 +5298,7 @@ VIP O
 вообще O
 лучше O
 не O
-знать O
+знать B-neutral
 как O
 и O
 из O
@@ -5308,7 +5308,7 @@ VIP O
 ) O
 
 К O
-слову O
+слову B-neutral
 , O
 в O
 зале O
@@ -5366,11 +5366,11 @@ VIP O
 хотелось O
 просто O
 видеть O
-богатый O
+богатый B-neutral
 стол O
 , O
-администратор B-positive
-уверила I-positive
+администратор B-negative
+уверила I-negative
 , O
 что O
 этого O
@@ -5424,10 +5424,10 @@ VIP O
 и O
 вежливо O
 предложила O
-забронированный O
+забронированный B-neutral
 столик O
 , O
-объяснив O
+объяснив B-neutral
 , O
 что O
 мы O
@@ -5443,13 +5443,13 @@ VIP O
 ( O
 к O
 нашей O
-радости O
+радости B-neutral
 , O
 они O
 так O
 и O
 не O
-объявились O
+объявились B-neutral
 ) O
 . O
 
@@ -5462,7 +5462,7 @@ VIP O
 и O
 проводила O
 к O
-столику-приятно O
+столику-приятно B-neutral
 . O
 
 Скажу O
@@ -5476,7 +5476,7 @@ VIP O
 , O
 не O
 без O
-курьезов O
+курьезов B-neutral
 , O
 но O
 ... O
@@ -5495,8 +5495,8 @@ VIP O
 Блюда B-positive
 за O
 наш O
-стол B-positive
-подавались I-positive
+стол O
+подавались B-neutral
 гостям O
 одновременно O
 . O
@@ -5530,13 +5530,13 @@ VIP O
 профессионализмом O
 персонала B-positive
 стоит O
-поработать O
+поработать B-neutral
 . O
 
 Ресторанов B-neutral
 в O
 Питере O
-немало O
+немало B-neutral
 , O
 но O
 на O
@@ -5546,7 +5546,7 @@ VIP O
 выбор O
 пал O
 на O
-Legran O
+Legran B-neutral
 . O
 
 Доев B-neutral
@@ -5575,7 +5575,7 @@ Legran O
 и O
 паста O
 просто O
-потрясающие O
+потрясающие B-neutral
 . O
 
 Появилось B-neutral
@@ -5601,15 +5601,15 @@ Legran O
 человек O
 " O
 на O
-кочерге B-positive
-" I-positive
+кочерге B-neutral
+" O
 и O
 сказал O
 , O
 что O
 он O
 очень O
-извиняется O
+извиняется B-neutral
 и O
 что O
 шашлык O
@@ -5643,8 +5643,8 @@ Legran O
 собой O
 приносить O
 , O
-пробкового B-negative
-сбора I-negative
+пробкового B-neutral
+сбора I-neutral
 нет O
 . O
 
@@ -5674,7 +5674,7 @@ Legran O
 А O
 какое O
 было O
-начало O
+начало B-neutral
 ! O
 ? O
 
@@ -5711,7 +5711,7 @@ Legran O
 минус O
 ( O
 оставили O
-право O
+право B-neutral
 выбора O
 за O
 мной O
@@ -5721,8 +5721,8 @@ Legran O
 ) O
 . O
 
-Приглушенный B-positive
-свет I-positive
+Приглушенный B-neutral
+свет O
 ... O
 и O
 все O
@@ -5800,8 +5800,8 @@ Legran O
 На O
 днях O
 мы O
-вдесятером B-positive
-с I-positive
+вдесятером B-neutral
+с O
 коллегами O
 отметили O
 там O
@@ -5833,15 +5833,15 @@ Legran O
 , O
 милый O
 и O
-заботливый B-positive
-персонал I-positive
+заботливый B-neutral
+персонал O
 - O
 сделали O
 свое O
 дело O
 - O
-заставили B-negative
-расслабиться I-negative
+заставили B-neutral
+расслабиться I-neutral
 ) O
 ) O
 ) O
@@ -5859,7 +5859,7 @@ c I-neutral
 отмечали O
 с O
 друзьями O
-прошедшую O
+прошедшую B-neutral
 ранее O
 свадьбу O
 . O
@@ -5872,9 +5872,9 @@ c I-neutral
 , O
 и O
 три O
-тонюсеньких O
+тонюсеньких B-neutral
 ( O
-0,3 O
+0,3 B-neutral
 см O
 ) O
 ломтика B-positive
@@ -5887,7 +5887,7 @@ c I-neutral
 
 Тут O
 никаких O
-сюрпризов O
+сюрпризов B-neutral
 , O
 разве O
 что O
@@ -5905,7 +5905,7 @@ c I-neutral
 , O
 но O
 3-4 O
-варианта O
+варианта B-neutral
 самое O
 то O
 . O
@@ -5913,7 +5913,7 @@ c I-neutral
 В O
 принципе O
 ничего O
-выдающегося O
+выдающегося B-neutral
 , O
 но O
 мы O
@@ -5973,8 +5973,8 @@ c I-neutral
 морепродуктов O
 , O
 нового O
-интересного O
-интерьера B-positive
+интересного B-neutral
+интерьера O
 . O
 
 Но O
@@ -5987,11 +5987,11 @@ c I-neutral
 . O
 к O
 . O
-певец B-negative
-исполнял I-negative
+певец B-neutral
+исполнял I-neutral
 очень O
 хорошие O
-песни O
+песни B-neutral
 ! O
 
 Молодцы O
@@ -6002,7 +6002,7 @@ c I-neutral
 Оба O
 раза O
 были O
-обслужены O
+обслужены B-neutral
 крайне O
 вежливо O
 , O
@@ -6043,14 +6043,14 @@ c I-neutral
 и O
 нас O
 проводили O
-вниз O
+вниз B-neutral
 ... O
 
 Были O
 в O
 пятницу O
 ( O
-19.03 O
+19.03 B-neutral
 . O
 10 O
 ) O
@@ -6063,7 +6063,7 @@ c I-neutral
 на O
 воскресенье O
 , O
-заодно O
+заодно B-neutral
 и O
 попробовали O
 немного O
@@ -6083,16 +6083,16 @@ c I-neutral
 , O
 хорошее O
 впечатление O
-отмечаю O
+отмечаю B-neutral
 чаевыми O
 и O
-благодарностью O
+благодарностью B-neutral
 непосредственно O
 в O
 ресторане O
 . O
 
-Чудесная O
+Чудесная B-positive
 сервировка B-positive
 , O
 очень O
@@ -6134,7 +6134,7 @@ c I-neutral
 ни O
 где O
 , O
-езжу O
+езжу B-neutral
 сюда O
 специально O
 из O
@@ -6165,8 +6165,8 @@ c I-neutral
 это O
 даже O
 по O
-будним B-negative
-дням I-negative
+будним B-neutral
+дням I-neutral
 , O
 сейчас O
 места O
@@ -6187,12 +6187,12 @@ c I-neutral
 цветами I-neutral
 рядом O
 с O
-входом O
+входом B-neutral
 в O
 ресторан O
 , O
-изысканный O
-интерьер B-positive
+изысканный B-neutral
+интерьер O
 внутри O
 ресторана O
 . O
@@ -6223,7 +6223,7 @@ c I-neutral
 
 Еда B-positive
 не O
-разочаровала O
+разочаровала B-neutral
 , O
 но O
 и O
@@ -6250,7 +6250,7 @@ c I-neutral
 , O
 что O
 будет O
-бесподобно O
+бесподобно B-neutral
 ! O
 
 Недавно O
@@ -6288,11 +6288,11 @@ c I-neutral
 день O
 рождения O
 отметить O
-семьей-я O
+семьей-я B-neutral
 , O
 жена O
 и O
-брат O
+брат B-neutral
 . O
 
 В O
@@ -6305,8 +6305,8 @@ c I-neutral
 приятно O
 удивлены O
 : O
-песни B-negative
-БЕСПЛАТНО I-negative
+песни B-neutral
+БЕСПЛАТНО I-neutral
 ! O
 ) O
 ) O
@@ -6322,7 +6322,7 @@ c I-neutral
 организацию O
 работы O
 по O
-проведению O
+проведению B-neutral
 юбилея O
 моей O
 мамы O
@@ -6331,10 +6331,10 @@ c I-neutral
 При O
 случае O
 еще O
-заедем B-positive
-на I-positive
-десерт I-positive
-с I-positive
+заедем B-neutral
+на O
+десерт O
+с O
 ребенком O
 . O
 
@@ -6360,7 +6360,7 @@ c I-neutral
 будет O
 столь O
 же O
-высоким O
+высоким B-neutral
 , O
 все-таки O
 любимый O
@@ -6380,7 +6380,7 @@ c I-neutral
 , O
 а O
 вот O
-апельсинового O
+апельсинового B-neutral
 сока O
 не O
 оказалось O
@@ -6394,7 +6394,7 @@ c I-neutral
 какой O
 заменить O
 и O
-ушла O
+ушла B-neutral
 . O
 
 Играет O
@@ -6402,14 +6402,14 @@ c I-neutral
 музыка B-positive
 ! O
 
-Потрясающая O
-паста B-neutral
-с I-neutral
-лососем I-neutral
+Потрясающая B-neutral
+паста O
+с O
+лососем O
 , O
 очень O
 вкусные O
-супчики O
+супчики B-neutral
 , O
 отличные O
 десерты B-positive
@@ -6418,8 +6418,8 @@ c I-neutral
 Официантки B-positive
 все O
 в O
-красивых B-negative
-формах I-negative
+красивых B-neutral
+формах I-neutral
 , O
 очень O
 приветливые O
@@ -6450,7 +6450,7 @@ c I-neutral
 администратор B-positive
 ) O
 был O
-предоставлен O
+предоставлен B-neutral
 только O
 нам O
 . O
@@ -6458,7 +6458,7 @@ c I-neutral
 Не O
 первый O
 раз O
-приходим O
+приходим B-neutral
 в O
 этот O
 ресторан O
@@ -6503,7 +6503,7 @@ c I-neutral
 мы O
 пришли O
 днем O
-часиков O
+часиков B-neutral
 в O
 четыре O
 , O
@@ -6511,23 +6511,23 @@ c I-neutral
 что O
 вечер O
 приятно O
-продлился O
+продлился B-neutral
 … O
 ... O
 
 Я O
 же O
 очень O
-полюбила O
-блюдо B-neutral
-тартар I-neutral
-с I-neutral
-сырой I-neutral
-рыбой I-neutral
-и I-neutral
-сырым I-neutral
-яйцом I-neutral
-. I-neutral
+полюбила B-positive
+блюдо I-positive
+тартар I-positive
+с I-positive
+сырой O
+рыбой O
+и O
+сырым O
+яйцом O
+. O
 
 Пиво B-positive
 было O
@@ -6540,12 +6540,12 @@ c I-neutral
 а O
 за O
 три O
-Вельвета O
+Вельвета B-neutral
 моему O
 другу O
 подарили O
 еще O
-полотенце O
+полотенце B-neutral
 фирменное O
 . O
 ) O
@@ -6556,7 +6556,7 @@ c I-neutral
 на O
 вино B-positive
 просто O
-бешенные O
+бешенные B-neutral
 .. O
 хотя O
 , O
@@ -6583,8 +6583,8 @@ c I-neutral
 был O
 в O
 этом O
-БАРЕ B-negative
-28.10 I-negative
+БАРЕ B-neutral
+28.10 I-neutral
 . O
 09 O
 , O
@@ -6594,9 +6594,9 @@ c I-neutral
 обслуживание B-positive
 ни O
 чем O
-особенным O
+особенным B-neutral
 не O
-выделяеться O
+выделяеться B-neutral
 , O
 пиво B-positive
 стоит O
@@ -6646,10 +6646,10 @@ c I-neutral
 днях O
 , O
 в O
-командировку O
+командировку B-neutral
 , O
 приезжали O
-коллеги O
+коллеги B-neutral
 по O
 работе O
 и O
@@ -6663,7 +6663,7 @@ c I-neutral
 замечательный O
 ресторанчик O
 на O
-Каменоостровском O
+Каменоостровском B-neutral
 . O
 
 Интересное B-neutral
@@ -6672,7 +6672,7 @@ c I-neutral
 особенно O
 порадовало O
 соотношение O
-цена-качество O
+цена-качество B-neutral
 . O
 
 Знакомые B-neutral
@@ -6701,13 +6701,13 @@ c I-neutral
 блюда O
 по O
 вкусу O
-чень B-negative
-похожи I-negative
-на I-negative
-блюда I-negative
+чень B-neutral
+похожи I-neutral
+на O
+блюда O
 в O
 ресторанах O
-Тайланда O
+Тайланда B-neutral
 , O
 хотя O
 мясной O
@@ -6718,7 +6718,7 @@ c I-neutral
 . O
 
 Если O
-рассматривать O
+рассматривать B-neutral
 это O
 заведение B-negative
 с I-negative
@@ -6740,7 +6740,7 @@ c I-neutral
 
 Счет O
 на O
-3300 O
+3300 B-neutral
 . O
 
 Ресторан B-positive
@@ -6754,7 +6754,7 @@ c I-neutral
 уютный O
 и O
 действительно O
-МНОГО O
+МНОГО B-neutral
 места O
 ! O
 
@@ -6785,16 +6785,16 @@ c I-neutral
 где O
 пиво B-positive
 не O
-кончается O
+кончается B-neutral
 через O
 час O
 и O
 обслуживающий B-positive
 персонал I-positive
 не O
-забывает O
+забывает B-neutral
 про O
-твой O
+твой B-neutral
 столик O
 на O
 долгое O
@@ -6825,15 +6825,15 @@ c I-neutral
 только O
 с O
 другим O
-концом B-positive
-стола I-positive
+концом B-neutral
+стола O
 , O
 но O
 и O
-соседей B-negative
-справа-слева I-negative
+соседей B-neutral
+справа-слева I-neutral
 приходилось O
-переспрашивать O
+переспрашивать B-neutral
 . O
 
 Столик O
@@ -6846,15 +6846,15 @@ c I-neutral
 не O
 заказывать O
 , O
-свободные O
-столы B-positive
+свободные B-neutral
+столы O
 были O
 . O
 
 Спасибо O
 всей O
-команде B-positive
-ресторана I-positive
+команде B-neutral
+ресторана O
 ! O
 ! O
 ! O
@@ -6864,8 +6864,8 @@ c I-neutral
 2013 O
 Посетила O
 ваш O
-ресторан B-positive
-Евразия I-positive
+ресторан B-negative
+Евразия I-negative
 , O
 с O
 семьей O
@@ -6884,12 +6884,12 @@ c I-neutral
 что O
 на O
 них O
-смотришь O
+смотришь B-neutral
 , O
 - O
 не O
-делают B-positive
-вид I-positive
+делают B-neutral
+вид O
 , O
 что O
 не O
@@ -6941,7 +6941,7 @@ c I-neutral
 . O
 
 Возможно O
-причиной O
+причиной B-neutral
 было O
 большое O
 количество O
@@ -7002,14 +7002,14 @@ c I-neutral
 Антонина I-neutral
 , O
 хорошо O
-разбирается B-negative
-в I-negative
-предсталенной I-negative
+разбирается B-neutral
+в I-neutral
+предсталенной I-neutral
 рестораном O
 еде O
 и O
 умело O
-порекомендовала O
+порекомендовала B-neutral
 нам O
 разные O
 закуски O
@@ -7021,6 +7021,6 @@ c I-neutral
 что O
 оно O
 даже O
-скромное O
+скромное B-neutral
 . O
 
