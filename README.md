@@ -87,7 +87,7 @@ The following functions are defined in ML1D Final.ipynb
    - Returns a list of predicted labels
 
 12. **p3(input_path, output_path, unique_labels, unique_tokens, e_table, q_table, unk_token, num):**
-    - Writes the results of prediction (method p3) to an output file
+   - Writes the results of prediction (method p3) to an output file
 
 ## Usage
 
