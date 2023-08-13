@@ -52,33 +52,41 @@ The following functions are defined in ML1D Final.ipynb
    - Opens and processes the testing files containing sentences of the in and out file formats
    - Returns a list of sentences with tokens
 
-3. **estimate_e_table(unique_labels, unique_tokens, tokens, labels, unk_token="#UNK#", k=1):**
+3. **get_unique(nested_list):**
+   - Extracts number of unique words in the file
+   - Returns a list of unique words
+
+4. **estimate_emission_matrix(unique_labels, unique_tokens, tokens, labels, unk_token="#UNK#", k=1):**
    - Estimates emission probabilities for tokens given labels
    - Returns an emission probability table
 
-4. **estimate_q_table(unique_labels, labels):**
-   - Estimates transition probabilities between labels
-   - Returns a transition probability table
-
-5. **predict_labels_p1(unique_labels, unique_tokens, e_table, test_data, unk_token="#UNK#"):**
+5. **predict_labels_words(unique_labels, unique_tokens, e_table, test_data, unk_token="#UNK#"):**
    - Predicts labels for test data using emission probabilities only
    - Returns a list of predicted labels
 
-6. **predict_labels_p2(unique_labels, unique_tokens, q_table, e_table, test_data, unk_token):**
+6. **estimate_transition_matrix(unique_labels, labels):**
+   - Estimates transition probabilities between labels
+   - Returns a transition probability table
+
+7. **viterbi_algorithm(unique_labels, unique_tokens, sentence, e_table, q_table, unk_token):**
    - Predicts labels for test data using both emission and transition probabilities
    - Returns a list of predicted labels
 
-7. **predict_p1(test_data, predict_label_p1, output_path):**
+8. **predict_labels_sentences(unique_labels, unique_tokens, q_table, e_table, test_data, unk_token):**
+   - Predicts labels for test data using both emission and transition probabilities
+   - Returns a list of predicted labels
+
+9. **p1(test_data, predict_label_p1, output_path):**
    - Writes the results of prediction (method p1) to an output file
 
-8. **predict_p2(test_data, predict_label_p2, output_path):**
+10. **p2(test_data, predict_label_p2, output_path):**
    - Writes the results of prediction (method p2) to an output file
 
-9. **viterbi_kthbest(e_table, q_table, unique_tokens, unique_labels, unk_token, sentence, num):**
+11. **kthbest_viterbi(e_table, q_table, unique_tokens, unique_labels, unk_token, sentence, num):**
    - Implements the k-th best Viterbi algorithm for multiple predictions
    - Returns a list of predicted labels
 
-10. **predict_p3(input_path, output_path, unique_labels, unique_tokens, e_table, q_table, unk_token, num):**
+12. **p3(input_path, output_path, unique_labels, unique_tokens, e_table, q_table, unk_token, num):**
     - Writes the results of prediction (method p3) to an output file
 
 ## Usage
@@ -110,4 +118,7 @@ You can use the script from the command line by running the following command:
 
 #### In Terminal
 
-python3 evalResult.py gold predictions
+   'python3 evalResult.py <<gold>> <<predictions>>'
+
+Where <<gold>> is the ground truth, i.e. the actual sentiments that we are trying to predict, and <<predictions>> is the prediction output, the prediction created by the algorithm. For part 1, the exact evaluation call would be:
+   'evalResults.py dev.out dev.p1.out'
